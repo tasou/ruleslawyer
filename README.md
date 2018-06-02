@@ -1,2 +1,2 @@
-# ruleslawyer
-Pathfinder rules skill for Alexa
+# rules_lawyer
+Pathfinder rules skill for Alexa.
